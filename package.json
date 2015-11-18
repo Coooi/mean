@@ -4,6 +4,7 @@
   "description": "Project to learn MEAN stack.",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.13.3",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
